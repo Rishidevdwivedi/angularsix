@@ -1,2 +1,0 @@
-# angularsix
-angular six project
